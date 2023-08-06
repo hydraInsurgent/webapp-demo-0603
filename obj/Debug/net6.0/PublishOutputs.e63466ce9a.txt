@@ -1,0 +1,7 @@
+C:\Personal\Learning\Azure\6. Web APP\webapp-demo-0603\bin\Debug\net6.0\publish\webapp-demo-0603.exe
+C:\Personal\Learning\Azure\6. Web APP\webapp-demo-0603\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Personal\Learning\Azure\6. Web APP\webapp-demo-0603\bin\Debug\net6.0\publish\appsettings.json
+C:\Personal\Learning\Azure\6. Web APP\webapp-demo-0603\bin\Debug\net6.0\publish\webapp-demo-0603.dll
+C:\Personal\Learning\Azure\6. Web APP\webapp-demo-0603\bin\Debug\net6.0\publish\webapp-demo-0603.deps.json
+C:\Personal\Learning\Azure\6. Web APP\webapp-demo-0603\bin\Debug\net6.0\publish\webapp-demo-0603.runtimeconfig.json
+C:\Personal\Learning\Azure\6. Web APP\webapp-demo-0603\bin\Debug\net6.0\publish\webapp-demo-0603.pdb
